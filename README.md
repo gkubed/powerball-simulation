@@ -1,7 +1,7 @@
 # powerball-simulation
 Simulation of the Powerball lottery in Java
 
-This is a tiny little project I made in my spare time to better observe how hilariously unlikely you are to make money playing the lottery.
+This is a tiny little project I made in my spare time to better observe how hilariously unlikely you are to make money playing the lottery. It's by no means a work of art, but is hopefully very clear.
 
 Powerball is a trademark belonging to someone I don't know with lawyers I don't want to meet.
 
@@ -21,4 +21,4 @@ Powerball is a trademark belonging to someone I don't know with lawyers I don't 
     Total    |          3 | 0.06000000 | $12
     
     You started with $100, and now you have $12.
-    You lost 88.000000% of your money.`
+    You lost 88.000000% of your money.
