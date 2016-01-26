@@ -10,7 +10,7 @@ public class Powerball {
         int   tries   = 50;                     // $2 per try, mind you
         int   jackpot = 1500000000;             // Amount won in the jackpot
         int[] winning = {4, 8, 19, 27, 34, 10}; // Winning numbers, last being Powerball
-        boolean presetWin = false;              // if you don't want to use the winning numbers
+        boolean presetWin = true;               // if you don't want to use the winning numbers
                                                 // above, set to false and winning numbers will
                                                 // be generated
         // Non-user variables
